@@ -418,7 +418,7 @@
 				DEVELOPMENT_TEAM = F4T4422U8K;
 				INFOPLIST_FILE = jenkins_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "me.simon.jenkins-test";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nogle.jenkins-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -431,7 +431,7 @@
 				DEVELOPMENT_TEAM = F4T4422U8K;
 				INFOPLIST_FILE = jenkins_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "me.simon.jenkins-test";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nogle.jenkins-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -514,6 +514,7 @@
 				F4E0674D1DE40CBE0095C50E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4E0674E1DE40CBE0095C50E /* Build configuration list for PBXNativeTarget "jenkins_testTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				F4E067501DE40CBE0095C50E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4E067511DE40CBE0095C50E /* Build configuration list for PBXNativeTarget "jenkins_testUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				F4E067531DE40CBE0095C50E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
