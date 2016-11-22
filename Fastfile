@@ -1,6 +1,6 @@
 default_platform :ios
 
-platform :ios do
+platform :iOS do
   desc "Build iOS"
   lane :build do
     gym(
