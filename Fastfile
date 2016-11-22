@@ -1,4 +1,4 @@
-default_platform :ios
+default_platform :iOS
 
 platform :iOS do
   desc "Build iOS"
