@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4FDABF41DE40780008DCEA4"
+               BlueprintIdentifier = "F4E066AE1DE40A900095C50E"
                BuildableName = "jenkins tutorial.app"
                BlueprintName = "jenkins tutorial"
                ReferencedContainer = "container:jenkins tutorial.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4FDAC081DE40780008DCEA4"
+               BlueprintIdentifier = "F4E066C21DE40A910095C50E"
                BuildableName = "jenkins tutorialTests.xctest"
                BlueprintName = "jenkins tutorialTests"
                ReferencedContainer = "container:jenkins tutorial.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4FDAC131DE40780008DCEA4"
+               BlueprintIdentifier = "F4E066CD1DE40A910095C50E"
                BuildableName = "jenkins tutorialUITests.xctest"
                BlueprintName = "jenkins tutorialUITests"
                ReferencedContainer = "container:jenkins tutorial.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FDABF41DE40780008DCEA4"
+            BlueprintIdentifier = "F4E066AE1DE40A900095C50E"
             BuildableName = "jenkins tutorial.app"
             BlueprintName = "jenkins tutorial"
             ReferencedContainer = "container:jenkins tutorial.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FDABF41DE40780008DCEA4"
+            BlueprintIdentifier = "F4E066AE1DE40A900095C50E"
             BuildableName = "jenkins tutorial.app"
             BlueprintName = "jenkins tutorial"
             ReferencedContainer = "container:jenkins tutorial.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FDABF41DE40780008DCEA4"
+            BlueprintIdentifier = "F4E066AE1DE40A900095C50E"
             BuildableName = "jenkins tutorial.app"
             BlueprintName = "jenkins tutorial"
             ReferencedContainer = "container:jenkins tutorial.xcodeproj">
