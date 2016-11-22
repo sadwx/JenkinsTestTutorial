@@ -4,7 +4,6 @@ platform :ios do
   desc "Build iOS"
   lane :build do
     gym(
-      project: "./jenkins tutorial"
       archive_path: "./archive",
       output_directory: "./build",
       output_name: "app_name.ipa",
