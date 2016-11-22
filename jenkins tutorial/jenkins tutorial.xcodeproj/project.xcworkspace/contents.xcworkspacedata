@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:jenkins tutorial/jenkins tutorial.xcodeproj">
+      location = "self:jenkins tutorial.xcodeproj">
    </FileRef>
 </Workspace>
